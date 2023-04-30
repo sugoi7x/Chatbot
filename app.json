@@ -6,30 +6,30 @@
   "env": {
     "ADMIN": {
       "description": "Isi dengan id admin",
-      "value": ""
+      "value": "5377369759"
     },
     "TOKEN": {
       "description": "Dapatkan di @botfather",
-      "value": ""
+      "value": "6266436808:AAFxngpf-Ujv2_7efBfKbrtXUrnVveChUic"
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": "kenkanasw"
+      "value": "Txyzvy"
     },
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required":false,
-      "value": "musikkugroup"
+      "value": "xixizxx"
     },
     "PROJECT_NAME": {
       "description": "Isi dengan nama project bot kalian",
       "required": false,
-      "value": "PRIVATE CHAT"
+      "value": "Roleplay Chat"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required": false,
-      "value": "musikkuchannel"
+      "value": "xixizxx"
     }
   }
 }
